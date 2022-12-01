@@ -38,7 +38,7 @@
     "underscore-plus": "1.x"
   },
   "devDependencies": {
-    "coffeelint": "^1.9.7",
+    "coffeelint": "^1.16.2",
     "dedent": "^0.6.0"
   },
   "consumedServices": {
